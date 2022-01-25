@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCoreWithCICD", "NetCoreWithCICD\NetCoreWithCICD.csproj", "{3B577A71-B405-4195-A52B-3EFAE3552333}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{CC6FA6EA-BB13-4A59-809D-02DEBA90E191}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{3B577A71-B405-4195-A52B-3EFAE3552333}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3B577A71-B405-4195-A52B-3EFAE3552333}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3B577A71-B405-4195-A52B-3EFAE3552333}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC6FA6EA-BB13-4A59-809D-02DEBA90E191}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC6FA6EA-BB13-4A59-809D-02DEBA90E191}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC6FA6EA-BB13-4A59-809D-02DEBA90E191}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC6FA6EA-BB13-4A59-809D-02DEBA90E191}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
